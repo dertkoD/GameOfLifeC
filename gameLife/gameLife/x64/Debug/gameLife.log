@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\dertk\Desktop\Rep\123123\gameLife\gameLife\game.h(112,39): warning C4020: 'getNeighborCount': too many actual parameters
+C:\Users\dertk\Desktop\Rep\123123\gameLife\gameLife\game.h(159,4): warning C4013: 'Game' undefined; assuming extern returning int
+C:\Users\dertk\Desktop\Rep\123123\gameLife\gameLife\game.h(166): warning C4715: 'gameStart': not all control paths return a value
+  gameLife.vcxproj -> C:\Users\dertk\Desktop\Rep\123123\gameLife\x64\Debug\gameLife.exe
